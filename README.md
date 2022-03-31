@@ -34,7 +34,7 @@ SQL в нереляционных базах данных
 1. Строгая математическая основа
 2. Стандарты
 3. Многие знают SQL
-4. 
+ 
 ![image](https://user-images.githubusercontent.com/84245620/160932821-720059e5-0d22-40b4-abde-ae4695fc1a18.png)
 
 5432
@@ -77,7 +77,7 @@ AS
 
 ![image](https://user-images.githubusercontent.com/84245620/161022318-8e40a46f-a848-4809-a3a3-993fe516b7d5.png)
 
-3.Урок Фильтрация
+3.Урок. Фильтрация
 
 Для фильтрации используется команда WHERE
 
@@ -125,5 +125,27 @@ NOT
 ![image](https://user-images.githubusercontent.com/84245620/161029619-a327f92c-29b7-4ba7-a781-eebd65bcaf4f.png)
 
 
+4.Урок. Сортировка в SQL
+
+Сортировка данных в SELECT
+
+команда ORDER BY
+
+![image](https://user-images.githubusercontent.com/84245620/161035926-61ebdf14-a221-42d2-b556-ebf4e6c3d1bb.png)
+
+Порядок сортировки 
+
+ASC по возрастанию 
+
+DESC по убыванию
+
+![image](https://user-images.githubusercontent.com/84245620/161036785-3869b2c1-555d-4d41-ab52-b0aca988fa27.png)
 
 
+Сожно сортировать по нескольким столбцам указав их через запятую
+
+Итог
+
+![image](https://user-images.githubusercontent.com/84245620/161037292-69ed2fde-4553-4b77-ae6f-5496ace9188f.png)
+
+5.Урок. Создание таблиц
