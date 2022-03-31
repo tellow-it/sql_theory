@@ -198,9 +198,65 @@ DELETE
 
 ![image](https://user-images.githubusercontent.com/84245620/161045581-2eb48e95-c857-46a1-a76b-fa3906fa2cc5.png)
 
+
 Итог
 
 ![image](https://user-images.githubusercontent.com/84245620/161045920-34529f1d-7948-4bb4-bb2c-398fb1673fc4.png)
+
+7.Урок. Группировка данных 
+
+GROUP BY 
+
+![image](https://user-images.githubusercontent.com/84245620/161051698-fb3a75bb-5d8a-4cf1-aced-b64624f3b51b.png)
+
+![image](https://user-images.githubusercontent.com/84245620/161053128-5a6a85be-3da1-41cd-b3d9-7da2fc7259f7.png)
+
+Итог
+
+![image](https://user-images.githubusercontent.com/84245620/161053324-8d5010ac-aee8-45a4-89f3-038cb170c1d6.png)
+
+8.Урок. Агрегатные функции
+
+Агрегатные функции 
+
+![image](https://user-images.githubusercontent.com/84245620/161054632-ab03d6a5-aec4-46d7-bb1e-9b5a62432cc5.png)
+
+Использование агрегатных функций
+
+![image](https://user-images.githubusercontent.com/84245620/161055140-3e5a6558-e8d8-4a16-a08f-a0a67d16a013.png)
+
+![image](https://user-images.githubusercontent.com/84245620/161055543-28558807-5f21-41ec-91c2-0c4c8e074256.png)
+
+Итог
+
+![image](https://user-images.githubusercontent.com/84245620/161057205-ddd5e2e0-7202-492f-b60a-2d6e8de0e39a.png)
+
+9.Урок. Группировка и фильтрация. Having
+
+Having
+
+![image](https://user-images.githubusercontent.com/84245620/161058021-0fe3a75b-922d-497f-94b1-4d501b1abd74.png)
+
+
+Мы не можем использовать условии в Where т.к на том этапе мы работаем со всей таблицей
+
+Итог
+
+![image](https://user-images.githubusercontent.com/84245620/161058051-7875e2be-150b-4091-af8a-1a6562a14a09.png)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
  
