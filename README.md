@@ -110,5 +110,20 @@ AND
 
 ![image](https://user-images.githubusercontent.com/84245620/161029069-fe2f973e-b732-410c-8aac-8bde66088bfb.png)
 
+OR
+
+![image](https://user-images.githubusercontent.com/84245620/161029360-7bf2167c-b8bf-43c5-b694-e10337278d49.png)
+
+![image](https://user-images.githubusercontent.com/84245620/161029383-8b0e8b71-9c6a-4a4a-9316-9c7aec89343d.png)
+
+NOT 
+
+![image](https://user-images.githubusercontent.com/84245620/161029567-03a8f0d3-e133-4eca-99ef-ffe99416cf92.png)
+
+Итог
+
+![image](https://user-images.githubusercontent.com/84245620/161029619-a327f92c-29b7-4ba7-a781-eebd65bcaf4f.png)
+
+
 
 
