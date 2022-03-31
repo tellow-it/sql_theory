@@ -149,3 +149,58 @@ DESC по убыванию
 ![image](https://user-images.githubusercontent.com/84245620/161037292-69ed2fde-4553-4b77-ae6f-5496ace9188f.png)
 
 5.Урок. Создание таблиц
+
+Создание таблицы
+
+![image](https://user-images.githubusercontent.com/84245620/161041238-d2053559-ca3b-411d-829f-1367d091368d.png)
+
+
+Типы данных
+
+![image](https://user-images.githubusercontent.com/84245620/161038175-e962e36b-57ad-425a-a6e5-7d88145a7d6a.png)
+
+Первичный ключ - это поле, которое используется для обеспечения уникальности данных в таблице. 
+
+Автозаполнение первичного ключа 
+
+![image](https://user-images.githubusercontent.com/84245620/161038935-b3a7218d-3d7b-4bfc-817f-1901cd5757e1.png)
+
+Удаление таблицы
+
+DROP TABLE название_таблицы
+
+Изменение таблиц
+
+![image](https://user-images.githubusercontent.com/84245620/161041760-2aeaf82c-c4e7-40ae-872a-a2d811db1232.png)
+
+Итог
+
+![image](https://user-images.githubusercontent.com/84245620/161042257-b1879ef7-6eff-48d8-a5ea-e630719afc0f.png)
+
+6.Урок. Вставка и изменение данных
+
+INSERT INTO 
+VALUE
+
+![image](https://user-images.githubusercontent.com/84245620/161044853-b57ce2d4-ed93-48e4-856e-030c99253dda.png)
+
+Изменение данных в таблице
+
+UPDATE 
+
+![image](https://user-images.githubusercontent.com/84245620/161045014-67110be0-0e90-4f28-a53d-f10d72a1fa77.png)
+
+![image](https://user-images.githubusercontent.com/84245620/161045438-9253bef1-1d15-4381-ba40-1e4d0b14f7f4.png)
+
+Удаление данных из таблицы 
+
+DELETE
+
+![image](https://user-images.githubusercontent.com/84245620/161045581-2eb48e95-c857-46a1-a76b-fa3906fa2cc5.png)
+
+Итог
+
+![image](https://user-images.githubusercontent.com/84245620/161045920-34529f1d-7948-4bb4-bb2c-398fb1673fc4.png)
+
+
+ 
