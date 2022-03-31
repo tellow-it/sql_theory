@@ -89,5 +89,26 @@ WHERE название столбца оператор строка для фи�
 
 ![image](https://user-images.githubusercontent.com/84245620/161022662-8918f1ff-1c8c-4d4e-8ab6-52aa155c2845.png)
 
-  
+Оператор BETWEEN
+
+![image](https://user-images.githubusercontent.com/84245620/161028004-7efa49c1-5e0b-43f8-8c1a-161f4b889419.png)
+
+Оператор IN
+
+![image](https://user-images.githubusercontent.com/84245620/161028334-710b3155-aaa9-439d-8a55-65bd12ff2d4d.png)
+
+Оператор LIKE
+
+![image](https://user-images.githubusercontent.com/84245620/161028736-81e02be6-0eb5-4577-a99f-619f5a7453af.png)
+
+
+![image](https://user-images.githubusercontent.com/84245620/161028667-d348bd85-a5aa-4627-8545-949c4afb6a72.png)
+
+Логические операторы AND OR NOT
+
+AND
+
+![image](https://user-images.githubusercontent.com/84245620/161029069-fe2f973e-b732-410c-8aac-8bde66088bfb.png)
+
+
 
