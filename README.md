@@ -244,6 +244,20 @@ Having
 
 ![image](https://user-images.githubusercontent.com/84245620/161058051-7875e2be-150b-4091-af8a-1a6562a14a09.png)
 
+10.Урок.Декомпозиция данных в таблице
+
+Лучше пересмотреть
+
+https://www.youtube.com/watch?v=fDlK96jKH1k&list=PLtPJ9lKvJ4oh5SdmGVusIVDPcELrJ2bsT&index=11
+
+Является плохой практиктой хранить в столбцах большое количество одинаковых строк, это можно решить путем создания новой таблицы с вариантами значений столбца,
+и в исходную таблицу возвращать ссылку на другую таблицу и передавать индексы строк,т.к числа занимают меньле памяти
+
+![image](https://user-images.githubusercontent.com/84245620/161376235-9dc6f8ff-199d-4af5-9491-c37c65ffe1e4.png)
+
+Итоги
+
+![image](https://user-images.githubusercontent.com/84245620/161376249-d454708e-7bdb-419b-888f-aa4555ec3b30.png)
 
 
 
