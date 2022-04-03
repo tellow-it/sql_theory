@@ -259,9 +259,61 @@ https://www.youtube.com/watch?v=fDlK96jKH1k&list=PLtPJ9lKvJ4oh5SdmGVusIVDPcELrJ2
 
 ![image](https://user-images.githubusercontent.com/84245620/161376249-d454708e-7bdb-419b-888f-aa4555ec3b30.png)
 
+11.Урок. Запрос данных из нескольких таблиц
+
+![image](https://user-images.githubusercontent.com/84245620/161380215-3b5c77e6-0575-4ab7-8c6d-6802bd42137b.png)
+
+Есть две таблицы, они свзяаны друг с другом сталбцом, в котором строки помечены числом
+
+![image](https://user-images.githubusercontent.com/84245620/161380367-a9160998-d15a-465e-b969-6e6b2ccf0bf0.png)
+
+можно пользоваться стандартными операция для select такие where order итд
+
+![image](https://user-images.githubusercontent.com/84245620/161380523-76969460-8eaa-4b64-a48b-2f64f9abf41b.png)
+
+Итог
+
+![image](https://user-images.githubusercontent.com/84245620/161380595-0021eb51-1e2f-4bd9-b7dc-12c82a1b0046.png)
+
+12.Урок. Типы JOIN
+
+Данный тип объединения называется внутреннее объединение INNER (по умолчанию)
+
+Используется если есть соответсвие из join таблицы 
+
+![image](https://user-images.githubusercontent.com/84245620/161386626-455bd0c0-e79a-4fdd-8f7e-0efdf21a7c34.png)
+
+Внешнее объединение 
+
+Используется когда может не быть соответсвия между таблицами
+
+Типы: левое, правое, полное
+
+![image](https://user-images.githubusercontent.com/84245620/161386807-d69c9a84-69aa-4bd7-864d-2f9c86025299.png)
+
+![image](https://user-images.githubusercontent.com/84245620/161386819-8635e779-a87a-48b8-a2b5-baf38832aaf2.png)
+
+![image](https://user-images.githubusercontent.com/84245620/161386980-b1439389-03d7-4316-8ec7-9952514a1b28.png)
+
+Смысл: объединение данных из таблицы несмотря на то что соответсвия может и небыть и в зависимости от того какое объединение левое или правое, то та колонка и будет пуста, если же полное, то отображение пустых элементов будет для обоих колонок
+
+Перекрестное объединение
+
+Объединение без условий и строится с помощью комбинаций строк из двух таблиц ManyToMany
+
+![image](https://user-images.githubusercontent.com/84245620/161387009-6be26355-4ba1-405c-8dbc-7e32809fe4ec.png)
+
+Итог
+
+![image](https://user-images.githubusercontent.com/84245620/161387035-b0c8b2ae-457c-4a16-9a69-249630f938d0.png)
+
+13.Урок.Схемы базы данных
 
 
 
+
+
+  
 
 
 
